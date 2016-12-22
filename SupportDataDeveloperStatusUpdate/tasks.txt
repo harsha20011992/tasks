@@ -1,0 +1,8 @@
+Aim: To create a tool which will sync the support.zoho.com MEDCSupport portal data to creator.zoho.com tool so that developers can access it and update the same. This must be then synced to reports.zoho.com to generate reports for support review meeting.
+
+Subtasks:
+	1. Write java tool to pull data from support.zoho.com
+	2. Process the data
+	3. Sync it to creator
+	4. write creator code to process data
+	5. upload it to reports.
