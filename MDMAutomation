@@ -1,0 +1,12 @@
+Aim: To automate MDM testing
+
+subtasks:
+	1. Web Application automation
+		1. learn selenium
+	2. Mobile device automation
+		1. android
+			1. learn appium
+		2. iOS
+			1. learn appium
+		3. windows
+			1. learn appium
